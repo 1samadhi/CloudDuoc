@@ -16,6 +16,6 @@ public class HolaMundoV1Controller {
 
     @PostMapping("/despedida")
     public String despedida() {
-        return "despedida v1.1.0";
+        return "Despedida v1.1.1";
     }
 }

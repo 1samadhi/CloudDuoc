@@ -34,7 +34,7 @@ Devuelve un mensaje de despedida.
 **Respuesta ejemplo:**
 
 ```
-despedida v1.1.0
+Despedida v1.1.1
 ```
 
 Ver [CHANGELOG.md](CHANGELOG.md) para el detalle de versiones.

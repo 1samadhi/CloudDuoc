@@ -5,6 +5,13 @@ Todos los cambios notables de este proyecto se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto respeta [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.2.0] - 2026-08-14
+
+### Added
+
+- Dockerfile multi-etapa para construir y ejecutar el microservicio en contenedor (usuario no-root, optimización de memoria JVM).
+- `.dockerignore` para excluir archivos innecesarios del contexto de build.
+
 ## [1.1.1] - 2026-08-13
 
 ### Fixed
